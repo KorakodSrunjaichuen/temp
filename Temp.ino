@@ -9,7 +9,7 @@ int thermoDO = 12;
 int thermoCS = 15;
 int thermoCLK = 14;
 
-int a =1;
+int b = 3;
 
 
 
