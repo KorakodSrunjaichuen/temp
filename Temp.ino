@@ -15,6 +15,7 @@ int thermoCLK = 14;
 
 int ledPin1 = 3;
 
+
 int ch1 = 0;
 
 WiFiServer server(80);
